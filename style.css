@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-1{
+    height: 100vh;
+    background-color: #F3FFDC;
+}
+.navbar{
+    padding: 20px;
+}
+.img-width{
+    width: 150px;
+}
+.nav-options{
+    display: flex;
+}
+li{
+    display: inline;
+    text-decoration: none;
+    margin-right: 30px;
+}
+li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.container{
+    margin-bottom: 40px;
+}
+.bg-button{
+    border: none;
+    padding: 10px 25px;
+    border-radius: 15px;
+    background-color: #436436;
+    font-weight: 500;
+    color: white;
+}
+.hero-1 h6, h1, p, button{
+    margin: 20px 0;
+}
+.hero-img{
+    width: 470px;
+    align-items: center;
+}
+.hero-1 h6{
+    color: #C84C09;
+}
+.hero-1 h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+span{
+    color:#C84C09;
+}
+.hero-1 p{
+    color: #6c757d;
+}
+.group{
+    margin: 30px 10px;
+    padding: 40px 20px;
+    background-color:#F8FFFB;
+    width: 250px ;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#413960;
+    border-radius: 12px
+;
+}
+.group img{
+    margin-bottom: 20px;
+}
+.group h6{
+    color: #585859;
+} 
+.group-2, .group-4{
+    background-color: white;
+    box-shadow: 5px 5px  10px lightgray;
+}
+.course-text{
+    text-align: center;
+    margin-bottom: 50px ;
+    color:#413960;
+}
+.course-img{
+    padding: 15px;
+}
+.card-body h5{
+    color: #413960;
+}
+.card-body p{
+    color:#585859 ;
+}
+.card{
+    border: none;
+    border-radius: 12px ;
+    box-shadow: 5px 5px 8px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.course-icon{
+    width: 20px;
+}
+.text{
+    margin-top: 70px;
+}
+
+.last-img{
+    margin: 0px 40px ;
+}
+.main{
+    height: 300px ;
+    width: 700px;
+    display: flex;
+    margin: 10px 0;
+}
+footer{
+    height: 430px;
+    background-color: #282531;
+    color: white;
+    padding-top: 30px;
+}
+.bolt{
+    font-weight: 900;
+}
+.part-2{
+   text-align: center;
+   margin: 60px 0;
+   padding-bottom: 30px;
+}
